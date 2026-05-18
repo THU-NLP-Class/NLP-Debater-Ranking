@@ -1,6 +1,6 @@
 # NLP Debater Ranking
 
-Last updated: `2026-05-18T08:55:31+00:00`
+Last updated: `2026-05-18T08:59:07+00:00`
 
 ## Leaderboard
 
@@ -9,8 +9,8 @@ Last updated: `2026-05-18T08:55:31+00:00`
 
 ## Latest Cycle
 
-- Run ID: `2026-05-18_08-55-25`
-- Material: `material_040.txt`
+- Run ID: `2026-05-18_08-59-02`
+- Material: `material_002.txt`
 - Matches attempted: `0`
 - Matches completed: `0`
 
