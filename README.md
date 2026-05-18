@@ -1,18 +1,18 @@
 # NLP Debater Ranking
 
-Last updated: `2026-05-14T09:22:27+00:00`
+Last updated: `2026-05-18T08:37:40+00:00`
 
 ## Leaderboard
 
 | Rank | Contestant | Score | This Cycle | Status |
 | ---: | --- | ---: | --- | --- |
-| 1 | cyf | 3 | 2W / 0L | valid |
-| 2 | sxy | 1 | 0W / 2L | valid |
+| 1 | cyf | 4 | 1W / 1L | error: Command failed (git pull --ff-only): ERROR: Repository not found. fatal: Could not read from remote repository.  Please  |
+| 2 | sxy | 2 | 1W / 1L | error: Command failed (git pull --ff-only): hint: Diverging branches can't be fast-forwarded, you need to either: hint: hint: 	 |
 
 ## Latest Cycle
 
-- Run ID: `2026-05-14_09-09-04`
-- Material: `material_003_nuclear_decarbonization.txt`
+- Run ID: `2026-05-18_08-22-18`
+- Material: `material_002_social_media_minors.txt`
 - Matches attempted: `2`
 - Matches completed: `2`
 
