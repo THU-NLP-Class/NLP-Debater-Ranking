@@ -2,7 +2,7 @@
 
 Last updated: `2026-05-22T17:20:16+00:00`
 
-Pre-cycle submission snapshot. The first scored leaderboard will appear after cycle 1 finishes (currently running).
+Pre-cycle submission snapshot. The first scored leaderboard will appear after cycle 1 runs, which is scheduled for approximately 2026-05-26 (every 3 days thereafter).
 
 ## Submissions (10 / 19)
 
