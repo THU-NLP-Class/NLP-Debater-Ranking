@@ -40,3 +40,39 @@ Last updated: `2026-06-07T12:23:55+00:00`
 - Grand total (players + judge): `2,632,792`
 
 This table is generated automatically by the ranking service.
+
+---
+
+> **⚠️ 临时测试结果 / Temporary test results (not part of the automated ranking above).**
+> 以下是一次性的人工对战测试：让各学生 agent 与助教参考 agent (`cyf`) 在 **3 道辩题**（materials 001/002/003）上各打正/反两场。
+> 这只是阶段性、仅供参考的测试结果，与上方的自动评分排名无关，不作为正式成绩。
+
+## Exhibition: Students vs TA Agent (`cyf`) — 3-Topic Test (temporary)
+
+Generated: `2026-06-07T15:52:27+00:00` · Settings: 5 rounds/side, 3 judge votes, 60s/turn · Each student plays both affirmative and negative on every topic (6 matches each).
+
+| Rank | Contestant | vs cyf (W-L) | Win% | M001 | M002 | M003 |
+| ---: | --- | :---: | ---: | :---: | :---: | :---: |
+| 1 | 万旭辉/Alisher Kunbolsyn | 6-0 | 100% | 2W/0L | 2W/0L | 2W/0L |
+| 2 | 丹琳娜/Alina Dambaeva | 5-1 | 83% | 2W/0L | 2W/0L | 1W/1L |
+| 3 | 黄越光/Hoang Pham Viet Quang | 5-1 | 83% | 2W/0L | 2W/0L | 1W/1L |
+| 4 | 魏思睿/Thomas Haslund Wik | 5-1 | 83% | 1W/1L | 2W/0L | 2W/0L |
+| 5 | 高揄扬/Yuyang Gao | 5-1 | 83% | 1W/1L | 2W/0L | 2W/0L |
+| 6 | 傅练仁/Ren Fu | 4-2 | 67% | 1W/1L | 2W/0L | 1W/1L |
+| 7 | 潘福荣/Sebastian Jonathan | 4-2 | 67% | 2W/0L | 1W/1L | 1W/1L |
+| 8 | 徐和平/Eduardus Tjitrahardja | 4-2 | 67% | 1W/1L | 2W/0L | 1W/1L |
+| 9 | 李光赫/Guanghe Li | 4-2 | 67% | 1W/1L | 2W/0L | 1W/1L |
+| 10 | 孙源泽/Yuanze Sun | 4-2 | 67% | 1W/1L | 2W/0L | 1W/1L |
+| 11 | 赵文信/Wenxin Zhao | 4-2 | 67% | 0W/2L | 2W/0L | 2W/0L |
+| 12 | Kosta Gjorgjievski | 4-2 | 67% | 1W/1L | 2W/0L | 1W/1L |
+| 13 | Mikhail Kuvakin | 4-2 | 67% | 1W/1L | 2W/0L | 1W/1L |
+| 14 | 卢天彧/Tianyu Lu | 4-2 | 67% | 1W/1L | 2W/0L | 1W/1L |
+| 15 | Leo-Minh Kustermann | 4-2 | 67% | 1W/1L | 1W/1L | 2W/0L |
+| 16 | 戴琮人/Congren Dai | 3-3 | 50% | 1W/1L | 2W/0L | 0W/2L |
+| 17 | 樊帅/Shuai Fan | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
+| 18 | 聂雨瑶/Nie Yuyao | 1-5 | 17% | 0W/2L | 1W/1L | 0W/2L |
+
+Notes:
+- M001/M002/M003 columns show the W/L split on each topic (2 matches per topic: one as affirmative, one as negative).
+- Side bias varies by topic (e.g. M001 and M003 strongly favored the negative side; on M002 students beat `cyf` on both sides), so playing both sides per topic is used to offset it; the 3-topic total is the more reliable comparison.
+- Roster: 18 students. 吴泽文/Zewen Wu had no submission during this batch and is not included.
