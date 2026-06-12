@@ -28,18 +28,19 @@ Last updated: `2026-06-12T07:43:34+00:00`
 
 ## Latest Cycle
 
-- Run ID: `2026-06-12_07-43-34`
-- Material: `material_001_congestion_pricing.txt (makeup: 高揄扬/Yuyang Gao vs Leo-Minh Kustermann)`
-- Matches attempted: `2`
-- Matches completed: `2`
+- Run ID: `2026-06-11_09-23-29`
+- Material: `material_045.txt`
+- Matches attempted: `18`
+- Matches completed: `18`
 
 ### Token Usage (this cycle)
 
-- Players (student model) total: `119,456` (prompt `82,082` / response `37,374`, `30` calls)
-- Judge model total: `34,755` (prompt `33,822` / response `933`, `6` calls)
-- Grand total (players + judge): `154,211`
+- Players (student model) total: `1,410,748` (prompt `1,062,996` / response `347,752`, `225` calls)
+- Judge model total: `543,941` (prompt `479,474` / response `64,467`, `54` calls)
+- Grand total (players + judge): `1,954,689`
 
 This table is generated automatically by the ranking service.
+
 ---
 
 > **⚠️ Temporary test results — not part of the automated ranking above.** Preliminary results against the TA agent, for reference only.
