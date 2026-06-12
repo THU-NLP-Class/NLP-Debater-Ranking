@@ -1,46 +1,45 @@
 # NLP Debater Ranking
 
-Last updated: `2026-06-11T12:33:08+00:00`
+Last updated: `2026-06-12T07:43:34+00:00`
 
 ## Leaderboard
 
 | Rank | Contestant | Score | This Cycle | Tokens (cycle) | Status |
 | ---: | --- | ---: | --- | ---: | --- |
-| 1 | 魏思睿/Thomas Haslund Wik | 9 | 2W / 0L | 78,868 | valid |
-| 2 | 孙源泽/Yuanze Sun | 8 | 0W / 2L | 161,591 | valid |
-| 3 | 万旭辉/Alisher Kunbolsyn | 8 | 2W / 0L | 88,171 | valid |
-| 4 | 丹琳娜/Alina Dambaeva | 7 | 1W / 1L | 85,819 | valid |
-| 5 | 傅练仁/Ren Fu | 7 | 1W / 1L | 85,737 | valid |
-| 6 | 樊帅/Shuai Fan | 7 | 1W / 1L | 46,613 | valid |
-| 7 | 徐和平/Eduardus Tjitrahardja | 6 | 0W / 2L | 67,459 | valid |
-| 8 | 李光赫/Guanghe Li | 6 | 1W / 1L | 77,991 | valid |
-| 9 | 黄越光/Hoang Pham Viet Quang | 6 | 2W / 0L | 45,156 | valid |
-| 10 | 卢天彧/Tianyu Lu | 6 | 2W / 0L | 135,603 | valid |
-| 11 | Kosta Gjorgjievski | 5 | 0W / 2L | 81,712 | valid |
-| 12 | 潘福荣/Sebastian Jonathan | 5 | 1W / 1L | 91,374 | valid |
-| 13 | Mikhail Kuvakin | 5 | 1W / 1L | 46,140 | valid |
-| 14 | 戴琮人/Congren Dai | 4 | 0W / 2L | 71,542 | valid |
-| 15 | 赵文信/Wenxin Zhao | 4 | 2W / 0L | 66,783 | valid |
-| 16 | 聂雨瑶/Nie Yuyao | 3 | 0W / 2L | 32,643 | valid |
-| 17 | 吴泽文/Zewen Wu | 3 | 2W / 0L | 95,187 | valid |
-| 18 | Leo-Minh Kustermann | 1 | 0W / 2L | 52,359 | valid |
-| 19 | 高揄扬/Yuyang Gao | 0 | 0W / 0L | 0 | not matched |
+| 1 | 魏思睿/Thomas Haslund Wik | 9 | 0W / 0L | 78,868 | valid |
+| 2 | 孙源泽/Yuanze Sun | 8 | 0W / 0L | 161,591 | valid |
+| 3 | 万旭辉/Alisher Kunbolsyn | 8 | 0W / 0L | 88,171 | valid |
+| 4 | 丹琳娜/Alina Dambaeva | 7 | 0W / 0L | 85,819 | valid |
+| 5 | 傅练仁/Ren Fu | 7 | 0W / 0L | 85,737 | valid |
+| 6 | 樊帅/Shuai Fan | 7 | 0W / 0L | 46,613 | valid |
+| 7 | 徐和平/Eduardus Tjitrahardja | 6 | 0W / 0L | 67,459 | valid |
+| 8 | 李光赫/Guanghe Li | 6 | 0W / 0L | 77,991 | valid |
+| 9 | 黄越光/Hoang Pham Viet Quang | 6 | 0W / 0L | 45,156 | valid |
+| 10 | 卢天彧/Tianyu Lu | 6 | 0W / 0L | 135,603 | valid |
+| 11 | Kosta Gjorgjievski | 5 | 0W / 0L | 81,712 | valid |
+| 12 | 潘福荣/Sebastian Jonathan | 5 | 0W / 0L | 91,374 | valid |
+| 13 | Mikhail Kuvakin | 5 | 0W / 0L | 46,140 | valid |
+| 14 | 戴琮人/Congren Dai | 4 | 0W / 0L | 71,542 | valid |
+| 15 | 赵文信/Wenxin Zhao | 4 | 0W / 0L | 66,783 | valid |
+| 16 | 聂雨瑶/Nie Yuyao | 3 | 0W / 0L | 32,643 | valid |
+| 17 | 吴泽文/Zewen Wu | 3 | 0W / 0L | 95,187 | valid |
+| 18 | Leo-Minh Kustermann | 3 | 2W / 0L | 111,298 | valid |
+| 19 | 高揄扬/Yuyang Gao | 0 | 0W / 2L | 60,517 | valid |
 
 ## Latest Cycle
 
-- Run ID: `2026-06-11_09-23-29`
-- Material: `material_045.txt`
-- Matches attempted: `18`
-- Matches completed: `18`
+- Run ID: `2026-06-12_07-43-34`
+- Material: `material_001_congestion_pricing.txt (makeup: 高揄扬/Yuyang Gao vs Leo-Minh Kustermann)`
+- Matches attempted: `2`
+- Matches completed: `2`
 
 ### Token Usage (this cycle)
 
-- Players (student model) total: `1,410,748` (prompt `1,062,996` / response `347,752`, `225` calls)
-- Judge model total: `543,941` (prompt `479,474` / response `64,467`, `54` calls)
-- Grand total (players + judge): `1,954,689`
+- Players (student model) total: `119,456` (prompt `82,082` / response `37,374`, `30` calls)
+- Judge model total: `34,755` (prompt `33,822` / response `933`, `6` calls)
+- Grand total (players + judge): `154,211`
 
 This table is generated automatically by the ranking service.
-
 ---
 
 > **⚠️ Temporary test results — not part of the automated ranking above.** Preliminary results against the TA agent, for reference only.
