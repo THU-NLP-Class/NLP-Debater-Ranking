@@ -1,43 +1,43 @@
 # NLP Debater Ranking
 
-Last updated: `2026-06-12T07:43:34+00:00`
+Last updated: `2026-06-12T08:35:11+00:00`
 
 ## Leaderboard
 
 | Rank | Contestant | Score | This Cycle | Tokens (cycle) | Status |
 | ---: | --- | ---: | --- | ---: | --- |
-| 1 | 魏思睿/Thomas Haslund Wik | 9 | 0W / 0L | 78,868 | valid |
-| 2 | 孙源泽/Yuanze Sun | 8 | 0W / 0L | 161,591 | valid |
-| 3 | 万旭辉/Alisher Kunbolsyn | 8 | 0W / 0L | 88,171 | valid |
-| 4 | 丹琳娜/Alina Dambaeva | 7 | 0W / 0L | 85,819 | valid |
-| 5 | 傅练仁/Ren Fu | 7 | 0W / 0L | 85,737 | valid |
-| 6 | 樊帅/Shuai Fan | 7 | 0W / 0L | 46,613 | valid |
-| 7 | 徐和平/Eduardus Tjitrahardja | 6 | 0W / 0L | 67,459 | valid |
-| 8 | 李光赫/Guanghe Li | 6 | 0W / 0L | 77,991 | valid |
-| 9 | 黄越光/Hoang Pham Viet Quang | 6 | 0W / 0L | 45,156 | valid |
-| 10 | 卢天彧/Tianyu Lu | 6 | 0W / 0L | 135,603 | valid |
-| 11 | Kosta Gjorgjievski | 5 | 0W / 0L | 81,712 | valid |
-| 12 | 潘福荣/Sebastian Jonathan | 5 | 0W / 0L | 91,374 | valid |
-| 13 | Mikhail Kuvakin | 5 | 0W / 0L | 46,140 | valid |
-| 14 | 戴琮人/Congren Dai | 4 | 0W / 0L | 71,542 | valid |
-| 15 | 赵文信/Wenxin Zhao | 4 | 0W / 0L | 66,783 | valid |
-| 16 | 聂雨瑶/Nie Yuyao | 3 | 0W / 0L | 32,643 | valid |
-| 17 | 吴泽文/Zewen Wu | 3 | 0W / 0L | 95,187 | valid |
-| 18 | Leo-Minh Kustermann | 3 | 2W / 0L | 111,298 | valid |
-| 19 | 高揄扬/Yuyang Gao | 0 | 0W / 2L | 60,517 | valid |
+| 1 | 魏思睿/Thomas Haslund Wik | 11 | 2W / 0L | 89,532 | valid |
+| 2 | 万旭辉/Alisher Kunbolsyn | 10 | 2W / 2L | 187,087 | valid |
+| 3 | 孙源泽/Yuanze Sun | 9 | 1W / 3L | 379,923 | valid |
+| 4 | 丹琳娜/Alina Dambaeva | 9 | 2W / 2L | 181,057 | valid |
+| 5 | 傅练仁/Ren Fu | 9 | 2W / 2L | 163,093 | valid |
+| 6 | 樊帅/Shuai Fan | 9 | 2W / 2L | 145,717 | valid |
+| 7 | 黄越光/Hoang Pham Viet Quang | 9 | 3W / 1L | 118,455 | valid |
+| 8 | 徐和平/Eduardus Tjitrahardja | 8 | 2W / 2L | 134,463 | valid |
+| 9 | 李光赫/Guanghe Li | 8 | 2W / 2L | 99,722 | valid |
+| 10 | 卢天彧/Tianyu Lu | 7 | 1W / 3L | 378,996 | valid |
+| 11 | Kosta Gjorgjievski | 7 | 2W / 2L | 236,514 | valid |
+| 12 | 潘福荣/Sebastian Jonathan | 7 | 2W / 2L | 190,104 | valid |
+| 13 | Mikhail Kuvakin | 7 | 2W / 2L | 89,072 | valid |
+| 14 | 戴琮人/Congren Dai | 6 | 2W / 2L | 292,105 | valid |
+| 15 | 吴泽文/Zewen Wu | 6 | 3W / 1L | 333,046 | valid |
+| 16 | 赵文信/Wenxin Zhao | 5 | 1W / 3L | 232,443 | valid |
+| 17 | 聂雨瑶/Nie Yuyao | 5 | 2W / 2L | 91,488 | valid |
+| 18 | Leo-Minh Kustermann | 5 | 2W / 2L | 78,862 | valid |
+| 19 | 高揄扬/Yuyang Gao | 1 | 1W / 1L | 197,327 | valid |
 
 ## Latest Cycle
 
-- Run ID: `2026-06-11_09-23-29`
-- Material: `material_045.txt`
-- Matches attempted: `18`
-- Matches completed: `18`
+- Run ID: `2026-06-12_08-20-49`
+- Material: `material_015.txt`
+- Matches attempted: `36`
+- Matches completed: `36`
 
 ### Token Usage (this cycle)
 
-- Players (student model) total: `1,410,748` (prompt `1,062,996` / response `347,752`, `225` calls)
-- Judge model total: `543,941` (prompt `479,474` / response `64,467`, `54` calls)
-- Grand total (players + judge): `1,954,689`
+- Players (student model) total: `3,619,006` (prompt `2,755,685` / response `863,321`, `516` calls)
+- Judge model total: `1,381,493` (prompt `1,213,521` / response `167,972`, `108` calls)
+- Grand total (players + judge): `5,000,499`
 
 This table is generated automatically by the ranking service.
 
@@ -47,26 +47,26 @@ This table is generated automatically by the ranking service.
 
 ## Exhibition: Students vs TA Agent — 3-Topic Test (temporary)
 
-Generated: `2026-06-12T02:42:51+00:00` · Settings: 5 rounds/side, 3 judge votes, 60s/turn · Each student plays both affirmative and negative on every topic.
+Generated: `2026-06-12T08:50:57+00:00` · Settings: 5 rounds/side, 3 judge votes, 60s/turn · Each student plays both affirmative and negative on every topic.
 
-| Rank | Contestant | vs TA (W-L) | Win% | 024 | 008 | 034 |
-| ---: | --- | :---: | ---: | :---: | :---: | :---: |
-| 1 | Mikhail Kuvakin | 6-0 | 100% | 2W/0L | 2W/0L | 2W/0L |
-| 2 | 魏思睿/Thomas Haslund Wik | 5-1 | 83% | 2W/0L | 2W/0L | 1W/1L |
-| 3 | 潘福荣/Sebastian Jonathan | 4-2 | 67% | 1W/1L | 1W/1L | 2W/0L |
-| 4 | Leo-Minh Kustermann | 4-2 | 67% | 1W/1L | 1W/1L | 2W/0L |
-| 5 | 万旭辉/Alisher Kunbolsyn | 3-3 | 50% | 1W/1L | 2W/0L | 0W/2L |
-| 6 | 丹琳娜/Alina Dambaeva | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 7 | 傅练仁/Ren Fu | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 8 | 樊帅/Shuai Fan | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 9 | 徐和平/Eduardus Tjitrahardja | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 10 | 李光赫/Guanghe Li | 3-3 | 50% | 1W/1L | 0W/2L | 2W/0L |
-| 11 | 黄越光/Hoang Pham Viet Quang | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 12 | 卢天彧/Tianyu Lu | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 13 | 赵文信/Wenxin Zhao | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 14 | 吴泽文/Zewen Wu | 3-3 | 50% | 1W/1L | 1W/1L | 1W/1L |
-| 15 | 孙源泽/Yuanze Sun | 2-4 | 33% | 1W/1L | 1W/1L | 0W/2L |
-| 16 | 高揄扬/Yuyang Gao | 2-4 | 33% | 1W/1L | 1W/1L | 0W/2L |
-| 17 | Kosta Gjorgjievski | 0-6 | 0% | 0W/2L | 0W/2L | 0W/2L |
-| 18 | 戴琮人/Congren Dai | 0-6 | 0% | 0W/2L | 0W/2L | 0W/2L |
-| 19 | 聂雨瑶/Nie Yuyao | 0-6 | 0% | 0W/2L | 0W/2L | 0W/2L |
+| Rank | Contestant | vs TA (W-L) | Win% | 020 |
+| ---: | --- | :---: | ---: | :---: |
+| 1 | 魏思睿/Thomas Haslund Wik | 1-1 | 50% | 1W/1L |
+| 2 | 万旭辉/Alisher Kunbolsyn | 1-1 | 50% | 1W/1L |
+| 3 | 孙源泽/Yuanze Sun | 1-1 | 50% | 1W/1L |
+| 4 | 丹琳娜/Alina Dambaeva | 1-1 | 50% | 1W/1L |
+| 5 | 傅练仁/Ren Fu | 1-1 | 50% | 1W/1L |
+| 6 | 樊帅/Shuai Fan | 1-1 | 50% | 1W/1L |
+| 7 | 黄越光/Hoang Pham Viet Quang | 1-1 | 50% | 1W/1L |
+| 8 | 徐和平/Eduardus Tjitrahardja | 1-1 | 50% | 1W/1L |
+| 9 | 李光赫/Guanghe Li | 1-1 | 50% | 1W/1L |
+| 10 | 卢天彧/Tianyu Lu | 1-1 | 50% | 1W/1L |
+| 11 | Kosta Gjorgjievski | 1-1 | 50% | 1W/1L |
+| 12 | 潘福荣/Sebastian Jonathan | 1-1 | 50% | 1W/1L |
+| 13 | Mikhail Kuvakin | 1-1 | 50% | 1W/1L |
+| 14 | 戴琮人/Congren Dai | 1-1 | 50% | 1W/1L |
+| 15 | 吴泽文/Zewen Wu | 1-1 | 50% | 1W/1L |
+| 16 | 聂雨瑶/Nie Yuyao | 1-1 | 50% | 1W/1L |
+| 17 | Leo-Minh Kustermann | 1-1 | 50% | 1W/1L |
+| 18 | 高揄扬/Yuyang Gao | 1-1 | 50% | 1W/1L |
+| 19 | 赵文信/Wenxin Zhao | 0-2 | 0% | 0W/2L |
