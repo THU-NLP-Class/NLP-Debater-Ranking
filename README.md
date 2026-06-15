@@ -61,12 +61,3 @@ Each student played the TA reference agent on 3 randomly drawn topics (both side
 | 17 | 傅练仁/Ren Fu | 3W-3L | 50% |
 | 18 | Leo-Minh Kustermann | 3W-3L | 50% |
 | 19 | 樊帅/Shuai Fan | 2W-4L | 33% |
-
-## Evaluation Details
-
-- **Round-robin topic**: `material_028.txt` — *This House would replace all direct state funding for public service broadcasting with a viewer-allocated voucher system.*
-- **Exhibition topics**: 3 randomly drawn from the full material pool.
-- **Total matches played**: 456 (342 round-robin + 114 exhibition), all completed successfully (0 errors).
-- **Total runtime**: 2.0 hours (20-thread parallel execution).
-- **Models**: `deepseek-v4-flash` (student), `deepseek-v4-pro` (judge).
-- **Evaluation date**: 2026-06-15 (UTC).
