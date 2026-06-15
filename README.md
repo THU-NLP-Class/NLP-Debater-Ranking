@@ -7,7 +7,7 @@ The final evaluation of the English Debate Agent project is now complete.
 **Scoring rules:**
 
 1. Students are ranked by the number of round-robin wins.
-2. Base scores are assigned linearly from **100%** (rank 1) to **70%** (rank 19).
+2. Base scores are assigned linearly from **100%** (rank 1) to **70%** (rank 19). Students with the same number of wins share the same rank and receive the same base score.
 3. **TA bonus**: any student who beat the TA agent in the exhibition (more wins than losses across 6 matches) and whose base score is below 90% is raised to **90%**.
 
 ## Final Scores
@@ -15,20 +15,20 @@ The final evaluation of the English Debate Agent project is now complete.
 | Rank | Contestant | RR Wins | RR Losses | Base Score | vs TA | Beat TA? | Final Score |
 | ---: | --- | ---: | ---: | ---: | :---: | :---: | ---: |
 | 1 | 徐和平/Eduardus Tjitrahardja | 21 | 15 | 100.00% | 5W-1L | ✅ | **100.00%** |
-| 2 | Mikhail Kuvakin | 21 | 15 | 98.33% | 6W-0L | ✅ | **98.33%** |
+| 1 | Mikhail Kuvakin | 21 | 15 | 100.00% | 6W-0L | ✅ | **100.00%** |
 | 3 | 潘福荣/Sebastian Jonathan | 20 | 16 | 96.67% | 6W-0L | ✅ | **96.67%** |
-| 4 | 黄越光/Hoang Pham Viet Quang | 20 | 16 | 95.00% | 5W-1L | ✅ | **95.00%** |
-| 5 | 万旭辉/Alisher Kunbolsyn | 20 | 16 | 93.33% | 4W-2L | ✅ | **93.33%** |
-| 6 | 聂雨瑶/Nie Yuyao | 20 | 16 | 91.67% | 5W-1L | ✅ | **91.67%** |
-| 7 | 戴琮人/Congren Dai | 20 | 16 | 90.00% | 3W-3L | — | **90.00%** |
-| 8 | 魏思睿/Thomas Haslund Wik | 20 | 16 | 88.33% | 6W-0L | ✅ | **90.00%** ↑ |
+| 3 | 黄越光/Hoang Pham Viet Quang | 20 | 16 | 96.67% | 5W-1L | ✅ | **96.67%** |
+| 3 | 万旭辉/Alisher Kunbolsyn | 20 | 16 | 96.67% | 4W-2L | ✅ | **96.67%** |
+| 3 | 聂雨瑶/Nie Yuyao | 20 | 16 | 96.67% | 5W-1L | ✅ | **96.67%** |
+| 3 | 戴琮人/Congren Dai | 20 | 16 | 96.67% | 3W-3L | — | **96.67%** |
+| 3 | 魏思睿/Thomas Haslund Wik | 20 | 16 | 96.67% | 6W-0L | ✅ | **96.67%** |
 | 9 | 丹琳娜/Alina Dambaeva | 19 | 17 | 86.67% | 4W-2L | ✅ | **90.00%** ↑ |
-| 10 | Kosta Gjorgjievski | 19 | 17 | 85.00% | 4W-2L | ✅ | **90.00%** ↑ |
+| 9 | Kosta Gjorgjievski | 19 | 17 | 86.67% | 4W-2L | ✅ | **90.00%** ↑ |
 | 11 | 孙源泽/Yuanze Sun | 18 | 18 | 83.33% | 3W-3L | — | **83.33%** |
-| 12 | 高揄扬/Yuyang Gao | 18 | 18 | 81.67% | 5W-1L | ✅ | **90.00%** ↑ |
+| 11 | 高揄扬/Yuyang Gao | 18 | 18 | 83.33% | 5W-1L | ✅ | **90.00%** ↑ |
 | 13 | 吴泽文/Zewen Wu | 17 | 19 | 80.00% | 4W-2L | ✅ | **90.00%** ↑ |
-| 14 | 赵文信/Wenxin Zhao | 17 | 19 | 78.33% | 6W-0L | ✅ | **90.00%** ↑ |
-| 15 | 卢天彧/Tianyu Lu | 17 | 19 | 76.67% | 4W-2L | ✅ | **90.00%** ↑ |
+| 13 | 赵文信/Wenxin Zhao | 17 | 19 | 80.00% | 6W-0L | ✅ | **90.00%** ↑ |
+| 13 | 卢天彧/Tianyu Lu | 17 | 19 | 80.00% | 4W-2L | ✅ | **90.00%** ↑ |
 | 16 | 樊帅/Shuai Fan | 16 | 20 | 75.00% | 2W-4L | — | **75.00%** |
 | 17 | 李光赫/Guanghe Li | 15 | 21 | 73.33% | 3W-3L | — | **73.33%** |
 | 18 | 傅练仁/Ren Fu | 14 | 22 | 71.67% | 3W-3L | — | **71.67%** |
