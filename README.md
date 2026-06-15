@@ -4,12 +4,6 @@
 
 The final evaluation of the English Debate Agent project is now complete.
 
-**Evaluation method:**
-
-- **Round-robin tournament**: every student agent played against every other student agent on a single randomly drawn debate topic (`material_028.txt`), with each pair playing both the affirmative and negative sides (19 students × 18 opponents × 2 sides = 36 matches per student, 342 matches total).
-- **Exhibition vs TA agent**: every student agent also played against the TA reference agent on 3 randomly drawn debate topics, with both sides per topic (6 matches per student, 114 matches total).
-- Match settings: 5 rounds per side, 3 independent judge votes per match, 60-second per-turn time limit, 20 concurrent matches.
-
 **Scoring rules:**
 
 1. Students are ranked by the number of round-robin wins.
