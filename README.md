@@ -35,6 +35,8 @@ The final evaluation of the English Debate Agent project is now complete.
 | 19 | Leo-Minh Kustermann | 10 | 26 | 70.00% | 3W-3L | — | **70.00%** |
 
 > ↑ = score raised to 90% by the TA bonus rule.
+>
+> Note: The percentages above apply to the **agent competition component (40% of the total course grade)** only. Report scores are assessed separately and are not included here.
 
 ## Exhibition: Students vs TA Agent — 3-Topic Test
 
